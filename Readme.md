@@ -38,3 +38,6 @@ SimpleDEX allows users to:
 - `ExchangeRateUpdated(uint256 newExchangeRate)`: Emitted when the exchange rate is updated.
 - `RemovedLiquidity(address tokenA, uint256 indexed amountA, address tokenB, uint256 indexed amountB)`: Emitted when liquidity is removed.
 - `Swapped(address tokenIn, uint256 indexed amountIn, address tokenOut, uint256 indexed amountOut)`: Emitted when tokens are swapped.
+
+Screenshot of implementation:
+![image](https://github.com/Deepak2030/SimpleDEX/assets/83352186/fdd45980-9f0f-4734-9526-15a8d89995b6)
